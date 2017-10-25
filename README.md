@@ -1,0 +1,1 @@
+Function as Child Component example
