@@ -1,4 +1,4 @@
-####Function as Child Component example
+#### Function as Child Component example
 
 #### Reusable component
 ```
