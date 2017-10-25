@@ -9,10 +9,9 @@
 
 #### Customize Library
 
-customLibrary.re
+myCustomLibrary.re
 ```
 let make = Library.create config::"foo";
-
 ```
 
 you can then use the Library with it's default config:
