@@ -1,4 +1,4 @@
-#### Function as Child Component example
+#### Function as Child Component example in Reason React
 
 #### Reusable component
 ```
